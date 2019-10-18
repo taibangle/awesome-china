@@ -13,6 +13,7 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 
 ## Xinjiang Concentration Camps
 - [Rape, torture and human experiments. Sayragul Sauytbay offers firsthand testimony from a Xinjiang 'reeducation' camp](https://github.com/taibangle/awesome-china/blob/master/xinjiang/sayragul-sauytbay-testimony.md)
+- [	Xinjiang University President Tashpolat Tiyip Sentenced to Death in Secret Trial](https://github.com/taibangle/awesome-china/blob/master/xinjiang/tashpolat-tiyip-sentenced-to-death.md)
 
 ## Wall of Shame
 
