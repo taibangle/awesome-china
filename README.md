@@ -11,6 +11,9 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 - [Bypassing Censorship on Chinese Social Media (e.g. WeChat)](https://github.com/taibangle/awesome-china/blob/master/circumvent-censorship/chinese-social-media.md)
 
 
+## Xinjiang Concentration Camps
+- [Rape, torture and human experiments. Sayragul Sauytbay offers firsthand testimony from a Xinjiang 'reeducation' camp](https://github.com/taibangle/awesome-china/blob/master/xinjiang/sayragul-sauytbay-testimony.md)
+
 ## Wall of Shame
 
 | Name | Date of Incident | Description |
