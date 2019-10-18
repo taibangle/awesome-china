@@ -17,6 +17,10 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 - **Video** - [China’s Vanishing Muslims: Undercover In The Most Dystopian Place In The World](https://www.youtube.com/watch?v=v7AYyUqrMuQ) ([GitHub 360p mirror since YouTube is blocked in China](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/chinas-vanishing-muslims.mp4))
 
 
+## Organ Harvesting
+- **Video**: [Medical Genocide: Hidden Mass Murder in China's Organ Transplant Industry](https://www.youtube.com/watch?v=1PrBwDoQVzA) - ([GitHub 360p mirror since YouTube is blocked in China](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/medical-genocide.mp4))
+
+
 ## Wall of Shame
 
 | Name | Date of Incident | Description |
