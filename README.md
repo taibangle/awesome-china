@@ -13,7 +13,9 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 
 ## Xinjiang Concentration Camps
 - [Rape, torture and human experiments. Sayragul Sauytbay offers firsthand testimony from a Xinjiang 'reeducation' camp](https://github.com/taibangle/awesome-china/blob/master/xinjiang/sayragul-sauytbay-testimony.md)
-- [	Xinjiang University President Tashpolat Tiyip Sentenced to Death in Secret Trial](https://github.com/taibangle/awesome-china/blob/master/xinjiang/tashpolat-tiyip-sentenced-to-death.md)
+- [Xinjiang University President Tashpolat Tiyip Sentenced to Death in Secret Trial](https://github.com/taibangle/awesome-china/blob/master/xinjiang/tashpolat-tiyip-sentenced-to-death.md)
+- **Video** - [China’s Vanishing Muslims: Undercover In The Most Dystopian Place In The World](https://www.youtube.com/watch?v=v7AYyUqrMuQ) ([GitHub 360p mirror since YouTube is blocked in China](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/chinas-vanishing-muslims.mp4))
+
 
 ## Wall of Shame
 
