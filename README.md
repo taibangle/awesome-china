@@ -15,7 +15,7 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 - [Rape, torture and human experiments. Sayragul Sauytbay offers firsthand testimony from a Xinjiang 'reeducation' camp](https://github.com/taibangle/awesome-china/blob/master/xinjiang/sayragul-sauytbay-testimony.md)
 - [Xinjiang University President Tashpolat Tiyip Sentenced to Death in Secret Trial](https://github.com/taibangle/awesome-china/blob/master/xinjiang/tashpolat-tiyip-sentenced-to-death.md)
 - ['Think of your family': China threatens European citizens over Xinjiang protests](https://github.com/taibangle/awesome-china/blob/master/xinjiang/think-of-your-family.md)
-- **Video** - [China’s Vanishing Muslims: Undercover In The Most Dystopian Place In The World](https://www.youtube.com/watch?v=v7AYyUqrMuQ) ([GitHub 360p mirror since YouTube is blocked in China](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/chinas-vanishing-muslims.mp4))
+- **Video** - [China's Vanishing Muslims: Undercover In The Most Dystopian Place In The World](https://www.youtube.com/watch?v=v7AYyUqrMuQ) ([GitHub 360p mirror since YouTube is blocked in China](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/chinas-vanishing-muslims.mp4))
 
 
 ## Organ Harvesting
@@ -52,6 +52,7 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 | TikTok | 2019-09-15 | TikTok instructed moderators to censor videos that mention Tiananmen Square, Tibet and Taiwan independence, Falun Gong, the Hong Kong protests, among other content that damages China's image. |
 | MUJI | 2019-09-10 | MUJI apologized for using the term "French Concession" in a Weibo post that invited followers to go on a walking tour of the neighborhood starting from its outlet. MUJI issued a statement saying "We had no intention of hurting Chinese people's feelings. We fully respect China's culture and history". |
 | Zara | 2019-09-02 | Zara apologized for listing Taiwan as an independent country, stating they "fully endorses China's territorial integrity." |
+| Asics | 2019-08-12 | Asics apologized for listing Hong Kong and Taiwan as independent countries on their website. Asics issued a statement saying "We sincerely apologize for what the [Chinese] press pointed out about Asics' official website, and solemnly state that Asics China and all our employees have consistently supported the territorial integrity of our motherland, the 'One China' principle, as well the fact that both Hong Kong and Taiwan are an inalienable part of China". |
 | Apple | 2019-06-04 | Apple censored several Chinese-language podcasts from its Chinese Podcasts store. These include NickTalk and Two I.T. Uncles (两个iT大叔), among many others. Apple confirmed to Two I.T. Uncles that their podcast is available in "all territories except China". |
 | Apple | 2019-04-10 | Apple Music removed a famous song by Jacky Cheung titled 'The Path of Man'. The song was censored because its lyrics mention the Tiananmen Square Massacre. Anthony Wong from Hong Kong also had his songs censored. Anthony Wong is a supporter of democratic ideas and criticizes the government for some of their policies restricting free speech. |
 | IELTS | 2018-10-05 | IELTS delisted Taiwan as a country on its website. |
