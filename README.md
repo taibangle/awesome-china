@@ -23,6 +23,10 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 - **Video**: [Medical Genocide: Hidden Mass Murder in China's Organ Transplant Industry](https://www.youtube.com/watch?v=1PrBwDoQVzA) - ([GitHub 360p mirror since YouTube is blocked in China](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/medical-genocide.mp4))
 
 
+## Hong Kong Protests
+- [2019 Hong Kong protests](https://github.com/taibangle/awesome-china/blob/master/hongkong/2019-hong-kong-protests.md)
+
+
 ## Wall of Shame
 
 | Name | Date of Incident | Description |
