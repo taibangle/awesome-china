@@ -27,6 +27,10 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 - [2019 Hong Kong protests, also known as the Anti–Extradition Law Amendment Bill (Anti-ELAB) movement](https://github.com/taibangle/awesome-china/blob/master/hongkong/2019-hong-kong-protests.md)
 
 
+## History Uncensored
+- [六四事件，又稱六四天安門事件](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/luisi-shijian.md)
+
+
 ## Wall of Shame
 
 | Name | Date of Incident | Description |
