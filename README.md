@@ -1,12 +1,10 @@
 # awesome-china
-
 A curated list of awesome software and information that can help educate the Chinese people about their government, as well as spread awareness to the rest of the world.
 
 See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/awesome-china) for the latest version.
 
 
 ## Circumvent Censorship
-
 - [VPN to bypass Great Firewall of China (GFW) for Free - Cloudflare 1.1.1.1 + WARP](https://github.com/taibangle/awesome-china/blob/master/circumvent-censorship/cloudflare-1111-warp.md)
 - [Bypassing Censorship on Chinese Social Media (e.g. WeChat)](https://github.com/taibangle/awesome-china/blob/master/circumvent-censorship/chinese-social-media.md)
 
@@ -31,8 +29,11 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 - [六四事件，又稱六四天安門事件](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/luisi-shijian.md)
 
 
-## Wall of Shame
+## Ways to Support
+- [Support the Hong Kong protests by donating and contacting your representatives](https://github.com/hongkonggong/beyond-lennon-walls)
 
+
+## Wall of Shame
 | Name | Date of Incident | Description |
 | ------------ | ---------------- | --------------- |
 | Dior | 2019-10-16 | Dior apologized for excluding Taiwan in a map of China during a presentation to an internship programme campus talk. Dior issued a statement saying they "always abide by the one-China principle and strictly upholds China's sovereignty and territorial integrity" and that they "cherishes the Chinese people's feelings". |
