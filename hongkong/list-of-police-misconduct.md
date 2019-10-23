@@ -1,6 +1,6 @@
 # List of Police Misconduct
 
-**Note**: This list is still work-in-progress. I have only copied 7 out of 30+ videos so far.
+**Note**: This list is still work-in-progress. I have only copied 8 out of 30+ videos so far.
 
 This article will provide a list of police brutality and misconduct towards the Hong Kong protestors. The article will only show incidents where there is indisputable video evidence of police abuse.
 
@@ -66,6 +66,13 @@ This incident happened at Kowloon.
 ![Close range fire and beatings](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/close-range-fire-and-beating-arrested-protestors.gif)
 
 This incident happened at Taikoo MTR station. Police opened fire at close range, beat protestors jammed into an escelator, and continued to beat protestors after they were subdued.
+
+
+## 2019-07-28 - Police chase and use batons to attack journalists - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-beat-journalists-with-batons.mp4)
+
+![Beat journalists with batons](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-beat-journalists-with-batons.gif)
+
+This incident happened at Kwai Chung.
 
 ---
 
