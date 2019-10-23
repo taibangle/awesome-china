@@ -52,6 +52,11 @@ This incident happened at Lui Seng Chun House, in the Mongkok (Prince Edward) ar
 This incident happened at Kowloon.
 
 
+## 2019-10-11 - Police shine strobe lights into bystander's face, pepper spray him for getting too close. He walks away and they continue to follow him and pepper spray him, and eventually drag him off to be presumably arrested. - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/flashlight-pepper-spray-arrest.mp4)
+
+![Flashlight, pepper spray and false arrest](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/flashlight-pepper-spray-arrest.gif)
+
+
 ## 2019-10-08 - Police dubiously arrest kid standing alone in the playground - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/arrest-kid-at-playground.mp4)
 
 ![Arrest kid at playground](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/arrest-kid-at-playground.gif)
