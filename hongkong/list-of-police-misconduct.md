@@ -1,6 +1,6 @@
 # List of Police Misconduct
 
-**Note**: This list is still work-in-progress. I have only copied 11 out of 30+ videos so far.
+**Note**: This list is still work-in-progress. I have only copied 12 out of 30+ videos so far.
 
 This article will provide a list of police brutality and misconduct towards the Hong Kong protestors. The article will only show incidents where there is indisputable video evidence of police abuse.
 
@@ -74,6 +74,17 @@ This incident happened at Causeway Bay.
 ## 2019-09-03 - Police officer breaking subdued protestor's wrist - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-break-protestors-wrist.mp4)
 
 ![Police break protestor's wrist](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-break-protestors-wrist.gif)
+
+
+## 2019-08-31 - The Prince Edward station attack - [See full 3 minute video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/prince-edward-terrorist-attack.mp4)
+
+![Prince Edward terrorist attack](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/prince-edward-terrorist-attack.gif)
+
+The Prince Edward station attack on 31 August 2019, also known as the 831 incident refers to an indiscriminate attack towards passengers by the Hong Kong police after a protest at the night on 31 August 2019 for the ELAB Movement in the Prince Edward station, Mong Kok. The event was described as the police version of the 2019 Yuen Long attack and the police were criticized as acting like terrorists. It is believed that several protestors were beaten to death at the station. The police deny the rumors, but refuse to release the CCTV footage.
+
+![Possible murder by the police](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/possible-murder-by-police.gif)
+
+One of the protestor's believed to have been beaten to death is seen in the above clip. You can [see the full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/possible-murder-by-police.mp4).
 
 
 ## 2019-08-11 - Police open fire close range, and beat suspects even after they are subdued - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/close-range-fire-and-beating-arrested-protestors.mp4)
