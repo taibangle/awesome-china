@@ -1,6 +1,6 @@
 # List of Police Misconduct
 
-**Note**: This list is still work-in-progress. I have only copied 18 out of 30+ videos so far.
+**Note**: This list is still work-in-progress. I have only copied 19 out of 30+ videos so far.
 
 This article will provide a list of police brutality and misconduct towards the Hong Kong protestors. The article will only show incidents where there is indisputable video evidence of police abuse.
 
@@ -96,6 +96,11 @@ This incident happened at Causeway Bay.
 ## 2019-09-03 - Police officer breaking subdued protestor's wrist - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-break-protestors-wrist.mp4)
 
 ![Police break protestor's wrist](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-break-protestors-wrist.gif)
+
+
+## 2019-09-03 - Police chase down and beat bystander for yelling "Where's your conscience?" - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/where-is-your-conscience.mp4)
+
+![Where is your conscience?](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/where-is-your-conscience.gif)
 
 
 ## 2019-08-31 - The Prince Edward station attack - [See full 3 minute video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/prince-edward-terrorist-attack.mp4)
