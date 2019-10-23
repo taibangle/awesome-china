@@ -4,7 +4,7 @@
 
 This article will provide a list of police brutality and misconduct towards the Hong Kong protestors. The article will only show incidents where there is indisputable video evidence of police abuse.
 
-Each incident has a GIF snippet along with a link to the full video. This is done to ensure the videos can be seen and shared by those living in China.
+Each incident has a GIF snippet along with a link to the full video. This is done to ensure the videos can be seen and shared by those living in China. If the GIF clips are taking too long to load, then you can click the 'See full video' links instead - by doing so then you will also be able to see the full video in a better resolution. It's strongly recommended to see the incidents taking place at 2019-08-31 and 2019-08-11.
 
 
 ## 2019-10-21 - Police officer assult and arrest woman for yelling "your wife is being fucked by someone" - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/your-wife-is-being-fucked.mp4)
@@ -80,11 +80,13 @@ This incident happened at Causeway Bay.
 
 ![Prince Edward terrorist attack](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/prince-edward-terrorist-attack.gif)
 
-The Prince Edward station attack on 31 August 2019, also known as the 831 incident refers to an indiscriminate attack towards passengers by the Hong Kong police after a protest at the night on 31 August 2019 for the ELAB Movement in the Prince Edward station, Mong Kok. The event was described as the police version of the 2019 Yuen Long attack and the police were criticized as acting like terrorists. It is believed that several protestors were beaten to death at the station. The police deny the rumors, but refuse to release the CCTV footage.
+The Prince Edward station attack on 31 August 2019, also known as the 831 incident, refers to an indiscriminate attack towards passengers by the Hong Kong police. The attack occurred after a protest at the night on 31 August 2019 in the Prince Edward station, Mong Kok. The event was described as the police version of the 2019 Yuen Long attack, and the police were criticized as acting like terrorists. It is believed that several protestors were beaten to death at the station. The police deny the rumors, but refuse to release the CCTV footage.
 
 ![Possible murder by the police](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/possible-murder-by-police.gif)
 
 One of the protestor's believed to have been beaten to death is seen in the above clip. You can [see the full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/possible-murder-by-police.mp4).
+
+The Prince Edward station attack include many other videos, such as this [paramedic pleading to be let into the station to help the wounded](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/paramedic-pleading-to-help-the-wounded.mp4). The paramedic can be heard saying "Please I'm begging you, let me help the injured. You can beat me, take my gear, arrest me... Just please let me help them!" as the police ignore his pleas.
 
 
 ## 2019-08-11 - Police open fire close range, and beat suspects even after they are subdued - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/close-range-fire-and-beating-arrested-protestors.mp4)
