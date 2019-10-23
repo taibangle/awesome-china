@@ -52,6 +52,18 @@ This incident happened at Lui Seng Chun House, in the Mongkok (Prince Edward) ar
 This incident happened at Kowloon.
 
 
+## 2019-10-14 - Police torture NowTV driver who was also shot in the back of the head with a rubber bullet - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-torture-nowtv-driver.mp4)
+
+![Police hold protestor's head to pepper spray in face](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-torture-nowtv-driver.gif)
+
+Police shot a NowTV driver in the back of the head with a rubber bullet. They then cuff his hands with zip ties, and escort him to Mong Kok police station where he was detained for 2 hours before sent to the hospital.
+
+![Lau's injuries](https://raw.githubusercontent.com/taibangle/awesome-china/master/images/hongkong/nowtv-driver.jpg)
+> The injuries NowTV driver sustained in police custody.
+
+NowTV driver claims they took him to the stairwell and beat his arms, legs, and head with batons. He has multiple injuries not related to the rubber bullet. Police Public Relations Bureau Acting Chief Superintendent Kong Wing-cheung said that the police are "sorry for the misunderstanding in communication during this incident".
+
+
 ## 2019-10-13 - Police tackle senior citizen for not removing flu mask - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/tackle-senior-citizen.mp4)
 
 ![Police tackle senior citizen](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/tackle-senior-citizen.gif)
