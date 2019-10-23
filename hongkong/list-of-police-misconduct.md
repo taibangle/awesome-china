@@ -1,6 +1,6 @@
 # List of Police Misconduct
 
-**Note**: This list is still work-in-progress. I have only copied 15 out of 30+ videos so far.
+**Note**: This list is still work-in-progress. I have only copied 16 out of 30+ videos so far.
 
 This article will provide a list of police brutality and misconduct towards the Hong Kong protestors. The article will only show incidents where there is indisputable video evidence of police abuse.
 
@@ -113,9 +113,16 @@ This incident happened at Taikoo MTR station. Police opened fire at close range,
 This incident happened at Kwai Chung.
 
 
+## 2019-06-12 - Police attack a protestor standing peacefully by himself - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-attack-protestor-standing-by-himself.mp4)
+
+![Police attack protestor standing by himself](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-attack-protestor-standing-by-himself.gif)
+
+This incident happened at Harcourt Road/Tim Wa Ave.
+
+
 ## 2019-06-12 - Police attack young girl after she fall on the ground - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-assult-young-girl-on-the-ground.mp4)
 
-![Beat journalists with batons](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-assult-young-girl-on-the-ground.gif)
+![Police attack young girl after she fall on the ground](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-assult-young-girl-on-the-ground.gif)
 
 In the video you can also see the police use a baton to hit a guy trying to help her up.
 
