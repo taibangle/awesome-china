@@ -1,6 +1,6 @@
 # List of Police Misconduct
 
-This article will provide a list of police brutality and misconduct towards the Hong Kong protestors. The article will only show incidents where there is indisputable video evidence of police abuse.
+This article will provide a list of police brutality and misconduct towards the Hong Kong protestors and press. The list will only show incidents where there is **indisputable video evidence of police misconduct**. While these videos are terrifying, it's important to remember that they only cover a small subset of the police brutality, as it's not possible to capture everything on video, especially inside the holding centers, where there has been numerous accusations of sexual assult and torture, including a teenage boy who claim he was sodomized and gang-raped. There has also been an unbelievably high number of suicides in recent months, and it has gotten so bad that the protestors yell their name upon arrest and declare that they have no intention of committing suicide.
 
 Each incident has a GIF snippet along with a link to the full video. This is done to ensure the videos can be seen and shared by those living in China. If the GIF clips are taking too long to load, then you can click the 'See full video' links instead - by doing so then you will also be able to see the full video in a better resolution. It's strongly recommended to see the incidents taking place at 2019-08-31 and 2019-08-11.
 
@@ -129,16 +129,11 @@ This incident happened at Causeway Bay.
 Acting Senior Superintendent Vasco Williams, who was involved in an accidental discharge incident in 2012, denied a person was visible in the video, saying the man was a "yellow object". He later admit it was a person, but that no assult occurred, and tried to claim the video had been doctored. You can [see Vasco Williams absurd press conference here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/vasco-williams-press-conference.mp4).
 
 
-## 2019-09-15 - NSFW: Police beat up protestor and pepper spray his head and wounds - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/nsfw-police-beat-up-protestor.mp4)
+## 2019-09-15 - NSFW: Police beat up protestor and hold his head to pepper spray his face and wounds - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/nsfw-police-beat-up-protestor.mp4)
 
 ![Police beat up protestor](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/nsfw-police-beat-up-protestor.gif)
 
-This incident happened in Fortress Hill.
-
-
-## 2019-09-15 - Police hold subdued suspect's head to pepper spray his face and wounds - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/hold-head-to-pepper-spray-in-face.mp4)
-
-![Police hold protestor's head to pepper spray in face](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/hold-head-to-pepper-spray-in-face.gif)
+This incident happened in Fortress Hill after he attacked police with their own baton to help another evade arrest.
 
 
 ## 2019-09-13 - Girl arrested for illegal assembly despite telling the police she was simply passing by and showing them her Mid-Autumn festival florescent sticks - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/girl-arrested-for-walking-by-the-police.mp4)
