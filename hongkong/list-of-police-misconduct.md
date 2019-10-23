@@ -98,6 +98,13 @@ This incident happened at Causeway Bay.
 ![Police run up to beat protestor](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-run-up-to-beat-protestor.gif)
 
 
+## 2019-09-22 - Police kick "yellow object" and blind cameras filming - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-kick-yellow-object.mp4)
+
+![Police kick a 'yellow object'](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-kick-yellow-object.gif)
+
+Acting Senior Superintendent Vasco Williams, who was involved in an accidental discharge incident in 2012, denied a person was visible in the video, saying the man was a "yellow object". He later admit it was a person, but that no assult occurred, and tried to claim the video had been doctored. You can [see Vasco Williams absurd press conference here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/vasco-williams-press-conference.mp4).
+
+
 ## 2019-09-15 - Police hold subdued suspect's head to pepper spray his face and wounds - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/hold-head-to-pepper-spray-in-face.mp4)
 
 ![Police hold protestor's head to pepper spray in face](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/hold-head-to-pepper-spray-in-face.gif)
@@ -162,6 +169,11 @@ This incident happened at Kwai Chung.
 ![Police attack protestor standing by himself](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-attack-protestor-standing-by-himself.gif)
 
 This incident happened at Harcourt Road/Tim Wa Ave.
+
+
+## 2019-06-13 - Police refuse to show identification - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-refuse-to-show-identification.mp4)
+
+![Police refuse to show identification](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-refuse-to-show-identification.gif)
 
 
 ## 2019-06-12 - Police attack young girl after she fall on the ground - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-assult-young-girl-on-the-ground.mp4)
