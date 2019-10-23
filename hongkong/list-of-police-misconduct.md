@@ -1,6 +1,6 @@
 # List of Police Misconduct
 
-**Note**: This list is still work-in-progress. I have only copied 12 out of 30+ videos so far.
+**Note**: This list is still work-in-progress. I have only copied 13 out of 30+ videos so far.
 
 This article will provide a list of police brutality and misconduct towards the Hong Kong protestors. The article will only show incidents where there is indisputable video evidence of police abuse.
 
@@ -69,6 +69,11 @@ This incident happened at Causeway Bay.
 ## 2019-09-15 - Police hold subdued suspect's head to pepper spray his face and wounds - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/hold-head-to-pepper-spray-in-face.mp4)
 
 ![Police hold protestor's head to pepper spray in face](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/hold-head-to-pepper-spray-in-face.gif)
+
+
+## 2019-09-13 - Girl arrested for illegal assembly despite telling the police she was simply passing by and showing them her Mid-Autumn festival florescent sticks - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/girl-arrested-for-walking-by-the-police.mp4)
+
+![Girl arrested for walking by the police](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/girl-arrested-for-walking-by-the-police.gif)
 
 
 ## 2019-09-03 - Police officer breaking subdued protestor's wrist - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-break-protestors-wrist.mp4)
