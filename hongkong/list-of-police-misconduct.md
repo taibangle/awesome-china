@@ -1,7 +1,5 @@
 # List of Police Misconduct
 
-**Note**: This list is still work-in-progress. I have only copied 19 out of 30+ videos so far.
-
 This article will provide a list of police brutality and misconduct towards the Hong Kong protestors. The article will only show incidents where there is indisputable video evidence of police abuse.
 
 Each incident has a GIF snippet along with a link to the full video. This is done to ensure the videos can be seen and shared by those living in China. If the GIF clips are taking too long to load, then you can click the 'See full video' links instead - by doing so then you will also be able to see the full video in a better resolution. It's strongly recommended to see the incidents taking place at 2019-08-31 and 2019-08-11.
@@ -57,6 +55,11 @@ This incident happened at Kowloon.
 ## 2019-10-08 - Police dubiously arrest kid standing alone in the playground - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/arrest-kid-at-playground.mp4)
 
 ![Arrest kid at playground](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/arrest-kid-at-playground.gif)
+
+
+## 2019-10-06 - Police kick and beat subdued protestor - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-kick-subdued-protestor.mp4)
+
+![Police kick and beat subdued protestor](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-kick-subdued-protestor.gif)
 
 
 ## 2019-10-05 - Police tackle man and woman for wearing facial mask - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-tackle-man-for-wearing-black-and-mask.mp4)
