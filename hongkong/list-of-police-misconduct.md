@@ -162,6 +162,13 @@ The Prince Edward station attack include many other videos, such as this [parame
 This incident happened at Taikoo MTR station. Police opened fire at close range, beat protestors jammed into an escelator, and continued to beat protestors after they were subdued.
 
 
+## 2019-07-30 - Police use strobe lights to ruin camera footage - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-use-strobe-light-at-camera.mp4)
+
+![Police use strobe light at camera](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-use-strobe-light-at-camera.gif)
+
+This is a common tactic the Hong Kong Police Force use to hide their misconduct and brutality.
+
+
 ## 2019-07-28 - Police chase and use batons to attack journalists - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-beat-journalists-with-batons.mp4)
 
 ![Beat journalists with batons](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-beat-journalists-with-batons.gif)
