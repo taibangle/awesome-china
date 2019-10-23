@@ -110,9 +110,15 @@ This incident happened at Causeway Bay.
 
 ## 2019-09-07 - Police enter MRT and indiscriminately start beating people - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-beat-people-at-mrt.mp4)
 
-![Police break protestor's wrist](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-beat-people-at-mrt.gif)
+![Police indiscriminately start beating people](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-beat-people-at-mrt.gif)
 
 This incident happened at Tai Po MTR.
+
+
+## 2019-09-07 - Police arrest random pedestrian without justification - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/arrest-random-pedestrian.mp4)
+
+![Police arrest random pedestrian](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/arrest-random-pedestrian.gif)
+
 
 ## 2019-09-03 - Police officer breaking subdued protestor's wrist - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-break-protestors-wrist.mp4)
 
