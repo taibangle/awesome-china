@@ -110,6 +110,13 @@ This incident happened at Causeway Bay.
 Acting Senior Superintendent Vasco Williams, who was involved in an accidental discharge incident in 2012, denied a person was visible in the video, saying the man was a "yellow object". He later admit it was a person, but that no assult occurred, and tried to claim the video had been doctored. You can [see Vasco Williams absurd press conference here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/vasco-williams-press-conference.mp4).
 
 
+## 2019-09-15 - NSFW: Police beat up protestor and pepper spray his head and wounds - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/nsfw-police-beat-up-protestor.mp4)
+
+![Police beat up protestor](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/nsfw-police-beat-up-protestor.gif)
+
+This incident happened in Fortress Hill.
+
+
 ## 2019-09-15 - Police hold subdued suspect's head to pepper spray his face and wounds - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/hold-head-to-pepper-spray-in-face.mp4)
 
 ![Police hold protestor's head to pepper spray in face](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/hold-head-to-pepper-spray-in-face.gif)
