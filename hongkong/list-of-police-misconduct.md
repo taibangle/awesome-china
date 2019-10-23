@@ -52,6 +52,13 @@ This incident happened at Lui Seng Chun House, in the Mongkok (Prince Edward) ar
 This incident happened at Kowloon.
 
 
+## 2019-10-13 - Police tackle senior citizen for not removing flu mask - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/tackle-senior-citizen.mp4)
+
+![Police tackle senior citizen](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/tackle-senior-citizen.gif)
+
+The above video begins as the senior citizen is running away. You can see the early context leading up to his arrest in [this video](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/tackle-senior-citizen-context.mp4).
+
+
 ## 2019-10-13 - Police pepper spray peaceful bystanders - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/pepper-spray-peaceful-bystanders.mp4)
 
 ![Police pepper spray peaceful bystanders](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/pepper-spray-peaceful-bystanders.gif)
