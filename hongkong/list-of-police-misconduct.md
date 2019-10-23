@@ -81,6 +81,11 @@ This incident happened at Sheung Shui.
 This incident happened at Central.
 
 
+## 2019-10-05 - Police throw waste container from bridge as protestors flee from their tear gas - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-throw-waste-container.mp4)
+
+![Police throw waste container at protestors](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-throw-waste-container.gif)
+
+
 ## 2019-10-01 - Police snap first aider's arm after confirming he is a first aider - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-snap-first-aider-arm.mp4)
 
 ![Police snap first aider's arm](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-snap-first-aider-arm.gif)
