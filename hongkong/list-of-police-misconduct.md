@@ -1,6 +1,6 @@
 # List of Police Misconduct
 
-**Note**: This list is still work-in-progress. I have only copied 8 out of 30+ videos so far.
+**Note**: This list is still work-in-progress. I have only copied 9 out of 30+ videos so far.
 
 This article will provide a list of police brutality and misconduct towards the Hong Kong protestors. The article will only show incidents where there is indisputable video evidence of police abuse.
 
@@ -54,11 +54,16 @@ This incident happened at Lui Seng Chun House, in the Mongkok (Prince Edward) ar
 This incident happened at Kowloon.
 
 
+## 2019-10-08 - Police dubiously arrest kid standing alone in the playground - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/arrest-kid-at-playground.mp4)
+
+![Arrest kid at playground](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/arrest-kid-at-playground.gif)
+
+
 ## 2019-09-29 - Police pepper spray pro-democracy lawmaker Eddie Chu at very close range - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/pepper-spray-lawmaker-eddie-chu.mp4)
 
 ![Pepper Spray Lawmaker Eddie Chu](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/pepper-spray-lawmaker-eddie-chu.gif)
 
-This incident happened at Kowloon.
+This incident happened at Causeway Bay.
 
 
 ## 2019-08-11 - Police open fire close range, and beat suspects even after they are subdued - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/close-range-fire-and-beating-arrested-protestors.mp4)
