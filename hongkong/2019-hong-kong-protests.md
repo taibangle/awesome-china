@@ -2,7 +2,7 @@
 
 The **2019 Hong Kong protests**, also known as the **Anti–Extradition Law Amendment Bill** or **Anti-ELAB movement**, are an ongoing series of demonstrations in Hong Kong which began with the aim to oppose the introduction of the Fugitive Offenders amendment bill proposed by the Hong Kong government. If enacted, the bill would allow local authorities to detain and extradite criminal fugitives who are wanted in territories with which Hong Kong does not currently have extradition agreements, including Taiwan and China. People were concerned that the bill would subject Hong Kong residents and visitors to Chinese jurisdiction, undermining the autonomy of the region and its civil liberties. As the protests progressed, the protesters laid out five key demands:
 
-~~1. **Full withdrawal of the extradition bill from the legislative process**~~
+1. ~~**Full withdrawal of the extradition bill from the legislative process**~~
 2. **Retraction of the characterisation of the protests as "riots"**
 3. **Release and exoneration of arrested protesters**
 4. **Establishment of an independent commission of inquiry into police behaviour**
