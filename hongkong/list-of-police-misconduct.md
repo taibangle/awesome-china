@@ -1,6 +1,6 @@
 # List of Police Misconduct
 
-**Note**: This list is still work-in-progress. I have only copied 17 out of 30+ videos so far.
+**Note**: This list is still work-in-progress. I have only copied 18 out of 30+ videos so far.
 
 This article will provide a list of police brutality and misconduct towards the Hong Kong protestors. The article will only show incidents where there is indisputable video evidence of police abuse.
 
@@ -76,6 +76,11 @@ This incident happened at Central.
 ![Pepper Spray Lawmaker Eddie Chu](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/pepper-spray-lawmaker-eddie-chu.gif)
 
 This incident happened at Causeway Bay.
+
+
+## 2019-09-29 - Police run up from behind and start hitting protestor with his baton - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-run-up-to-beat-protestor.mp4)
+
+![Police run up to beat protestor](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-run-up-to-beat-protestor.gif)
 
 
 ## 2019-09-15 - Police hold subdued suspect's head to pepper spray his face and wounds - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/hold-head-to-pepper-spray-in-face.mp4)
