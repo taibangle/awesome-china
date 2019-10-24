@@ -29,6 +29,7 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 ## History Uncensored
 - [六四事件，又稱六四天安門事件](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/luisi-shijian.md)
 - [长春围困战](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/changchun-weikunzhan.md)
+- [道县事件，也称道县惨案、道縣大屠殺、道县文革杀人事件](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/daoxian-shijian.md)
 
 
 ## Ways to Support
