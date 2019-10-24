@@ -28,6 +28,7 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 
 ## History Uncensored
 - [六四事件，又稱六四天安門事件](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/luisi-shijian.md)
+- [长春围困战](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/changchun-weikunzhan.md)
 
 
 ## Ways to Support
