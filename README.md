@@ -23,7 +23,7 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 
 ## Hong Kong Protests
 - [2019 Hong Kong protests, also known as the Anti–Extradition Law Amendment Bill (Anti-ELAB) movement](https://github.com/taibangle/awesome-china/blob/master/hongkong/2019-hong-kong-protests.md)
-- [List of Police Misconduct (incidents include video evidence)](https://github.com/taibangle/awesome-china/blob/master/hongkong/list-of-police-misconduct.md)
+- [List of police misconduct (all incidents include video evidence)](https://github.com/taibangle/awesome-china/blob/master/hongkong/list-of-police-misconduct.md)
 
 
 ## 中华人民共和国历史
