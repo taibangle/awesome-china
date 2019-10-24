@@ -30,6 +30,7 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 - [六四事件，又稱六四天安門事件](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/luisi-shijian.md)
 - [文化大革命](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/wenhua-dageming.md)
 - [道县事件，也称道县惨案、道縣大屠殺、道县文革杀人事件](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/daoxian-shijian.md)
+- [三年自然灾害，后改称为三年困难时期。中國大陸以外则常用大飢荒](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/sanniankunnanshiqi.md)
 - [长春围困战](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/changchun-weikunzhan.md)
 
 
