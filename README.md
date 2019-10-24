@@ -32,6 +32,7 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 - [道县事件，也称道县惨案、道縣大屠殺、道县文革杀人事件](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/daoxian-massacre.md)
 - [三年自然灾害，后改称为三年困难时期。中國大陸以外则常用大飢荒](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/great-chinese-famine.md)
 - [反右运动](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/anti-rightist-campaign.md)
+- [镇压反革命运动，简称鎮反](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/suppressing-counterrevolutionaries.md)
 - [长春围困战](https://github.com/taibangle/awesome-china/blob/master/history-uncensored/siege-of-changchun.md)
 
 
