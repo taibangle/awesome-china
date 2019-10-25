@@ -1,13 +1,13 @@
 # List of Police Misconduct
 
-This article will provide a list of police brutality and misconduct towards the Hong Kong protestors and press. The list will only show incidents where there is **indisputable video evidence of police misconduct**. While these videos are terrifying, it's important to remember that they only cover a small subset of the police brutality, as it's not possible to capture everything on video, especially inside the holding centers, where there has been numerous accusations of sexual assult and torture, including a teenage boy who claim he was sodomized and gang-raped. There has also been an unbelievably high number of suicides in recent months, and it has gotten so bad that the protestors yell their name upon arrest and declare that they have no intention of committing suicide.
+This article will provide a list of police brutality and misconduct towards the Hong Kong protestors and press. The list will only show incidents where there is **indisputable video evidence of police misconduct**. While these videos are terrifying, it's important to remember that they only cover a small subset of the police brutality, as it's not possible to capture everything on video, especially inside the holding centers, where there has been numerous accusations of sexual assault and torture, including a teenage boy who claim he was sodomized and gang-raped. There has also been an unbelievably high number of suicides in recent months, and it has gotten so bad that the protestors yell their name upon arrest and declare that they have no intention of committing suicide.
 
 Each incident has a GIF snippet along with a link to the full video. This is done to ensure the videos can be seen and shared by those living in China. If the GIF clips are taking too long to load, then you can click the 'See full video' links instead - by doing so then you will also be able to see the full video in a better resolution. It's strongly recommended to see the incidents taking place at 2019-08-31 and 2019-08-11.
 
 
-## 2019-10-21 - Police officer assult and arrest woman for yelling "your wife is being fucked by someone" - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/your-wife-is-being-fucked.mp4)
+## 2019-10-21 - Police officer assault and arrest woman for yelling "your wife is being fucked by someone" - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/your-wife-is-being-fucked.mp4)
 
-![Police assult and arrest woman](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/your-wife-is-being-fucked.gif)
+![Police assault and arrest woman](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/your-wife-is-being-fucked.gif)
 
 This incident happened at Tsuen Wan.
 
@@ -126,7 +126,7 @@ This incident happened at Causeway Bay.
 
 ![Police kick a 'yellow object'](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-kick-yellow-object.gif)
 
-Acting Senior Superintendent Vasco Williams, who was involved in an accidental discharge incident in 2012, denied a person was visible in the video, saying the man was a "yellow object". He later admit it was a person, but that no assult occurred, and tried to claim the video had been doctored. You can [see Vasco Williams absurd press conference here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/vasco-williams-press-conference.mp4).
+Acting Senior Superintendent Vasco Williams, who was involved in an accidental discharge incident in 2012, denied a person was visible in the video, saying the man was a "yellow object". He later admit it was a person, but that no assault occurred, and tried to claim the video had been doctored. You can [see Vasco Williams absurd press conference here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/vasco-williams-press-conference.mp4).
 
 
 ## 2019-09-15 - NSFW: Police beat up protestor and hold his head to pepper spray his face and wounds - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/nsfw-police-beat-up-protestor.mp4)
@@ -214,9 +214,9 @@ This incident happened at Harcourt Road/Tim Wa Ave.
 ![Police refuse to show identification](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-refuse-to-show-identification.gif)
 
 
-## 2019-06-12 - Police attack young girl after she fall on the ground - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-assult-young-girl-on-the-ground.mp4)
+## 2019-06-12 - Police attack young girl after she fall on the ground - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-assault-young-girl-on-the-ground.mp4)
 
-![Police attack young girl after she fall on the ground](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-assult-young-girl-on-the-ground.gif)
+![Police attack young girl after she fall on the ground](https://raw.githubusercontent.com/taibangle/awesome-china/master/videos/hongkong/police-assault-young-girl-on-the-ground.gif)
 
 In the video you can also see the police use a baton to hit a guy trying to help her up.
 
