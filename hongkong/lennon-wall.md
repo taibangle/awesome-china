@@ -136,3 +136,6 @@ There are of course many more slogans and issues that can be brought up. If you 
 ![ab33fecd39e27f313d1be0904f80619a](https://raw.githubusercontent.com/taibangle/awesome-china/master/images/hongkong/lennon-wall/ab33fecd39e27f313d1be0904f80619a.png)
 ![541cf487e9c3825ecd9ccab4c4e7da3d03fd42a7f992b565b13952cbe4b76fd4e4683edec5a61a713c332335f0ef9a5a](https://raw.githubusercontent.com/taibangle/awesome-china/master/images/hongkong/lennon-wall/541cf487e9c3825ecd9ccab4c4e7da3d03fd42a7f992b565b13952cbe4b76fd4e4683edec5a61a713c332335f0ef9a5a.jpg)
 ![ab841cd79ab88d13b95b5faf398fc564791b976ba276520db83aa390a11072ad5a87c0d644c4981bf92c8adea0057ec8](https://raw.githubusercontent.com/taibangle/awesome-china/master/images/hongkong/lennon-wall/ab841cd79ab88d13b95b5faf398fc564791b976ba276520db83aa390a11072ad5a87c0d644c4981bf92c8adea0057ec8.jpg)
+
+
+Almost all of these pictures were taken from this website: https://www.collaction.hk/lab/extradition_gallery?fbclid=IwAR024l1ng23AST_gReRHGpTCsIgmOfA_MgsWo_kwQwAc9aVuvctmKAjzJUE
