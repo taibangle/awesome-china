@@ -1,7 +1,7 @@
-[![awesome-china](https://raw.githubusercontent.com/taibangle/awesome-china/badges/awesome-china.svg)](https://github.com/taibangle/awesome-china)
-[![很棒-中国](https://raw.githubusercontent.com/taibangle/awesome-china/badges/很棒-中国.svg)](https://github.com/taibangle/awesome-china)
-
 # awesome-china
+<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/phayes/awesome-china/master/badges/awesome-china.png" width="98"></a>
+<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/phayes/awesome-china/master/badges/很棒-中国.png" width="66"></a>
+
 A curated list of awesome software and information that can help educate the Chinese people about their government, as well as spread awareness to the rest of the world.
 
 See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/awesome-china) for the latest version.
@@ -46,21 +46,22 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 
 Use the codes below on your project `README` to show your support and link to awesome-china.
 
-#### awesome-china
+## awesome-china badge
 
-[![awesome-china](https://raw.githubusercontent.com/taibangle/awesome-china/badges/awesome-china.png | width=98)](https://github.com/taibangle/awesome-china)
-
-```
-[![awesome-china](https://raw.githubusercontent.com/taibangle/awesome-china/badges/awesome-china.png | width=98)](https://github.com/taibangle/awesome-china)
-```
-
-
-## 很棒-中国
-
-[![很棒-中国](https://raw.githubusercontent.com/taibangle/awesome-china/badges/很棒-中国.png | width=66)](https://github.com/taibangle/awesome-china)
+<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/phayes/awesome-china/master/badges/awesome-china.png" width="98"></a>
 
 ```
-[![很棒-中国](https://raw.githubusercontent.com/taibangle/awesome-china/badges/很棒-中国.png | width=66)](https://github.com/taibangle/awesome-china)
+<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/phayes/awesome-china/master/badges/awesome-china.png" width="98"></a>
+```
+
+
+## 很棒-中国 badge
+
+<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/phayes/awesome-china/master/badges/很棒-中国.png" width="66"></a>
+
+```
+<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/phayes/awesome-china/master/badges/很棒-中国.png" width="66"></a>
+```
 ```
 
 ### Contact your representatives

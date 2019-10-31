@@ -1,20 +1,20 @@
 # Badge Codes
 
-Use the codes below to show your support and link to awesome-china.
+Use the codes below on your project `README` to show your support and link to awesome-china.
 
-## awesome-china
+## awesome-china badge
 
-[![awesome-china](https://raw.githubusercontent.com/taibangle/awesome-china/badges/awesome-china.png | width=98)](https://github.com/taibangle/awesome-china)
-
-```
-[![awesome-china](https://raw.githubusercontent.com/taibangle/awesome-china/badges/awesome-china.png | width=98)](https://github.com/taibangle/awesome-china)
-```
-
-
-## 很棒-中国
-
-[![很棒-中国](https://raw.githubusercontent.com/taibangle/awesome-china/badges/很棒-中国.png | width=66)](https://github.com/taibangle/awesome-china)
+<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/phayes/awesome-china/master/badges/awesome-china.png" width="98"></a>
 
 ```
-[![很棒-中国](https://raw.githubusercontent.com/taibangle/awesome-china/badges/很棒-中国.png | width=66)](https://github.com/taibangle/awesome-china)
+<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/phayes/awesome-china/master/badges/awesome-china.png" width="98"></a>
+```
+
+
+## 很棒-中国 badge
+
+<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/phayes/awesome-china/master/badges/很棒-中国.png" width="66"></a>
+
+```
+<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/phayes/awesome-china/master/badges/很棒-中国.png" width="66"></a>
 ```
