@@ -1,3 +1,6 @@
+[![awesome-china](https://raw.githubusercontent.com/taibangle/awesome-china/badges/awesome-china.png)](https://github.com/taibangle/awesome-china)
+[![很棒-中国](https://raw.githubusercontent.com/taibangle/awesome-china/badges/很棒-中国.png)](https://github.com/taibangle/awesome-china)
+
 # awesome-china
 A curated list of awesome software and information that can help educate the Chinese people about their government, as well as spread awareness to the rest of the world.
 
@@ -38,7 +41,39 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 
 
 ## Ways to Support
-- [Support the Hong Kong protests by donating and contacting your representatives](https://github.com/hongkonggong/beyond-lennon-walls)
+
+### GitHub Badges
+
+Use the codes below on your project `README` to show your support and link to awesome-china.
+
+#### awesome-china
+
+[![awesome-china](https://raw.githubusercontent.com/taibangle/awesome-china/badges/awesome-china.png)](https://github.com/taibangle/awesome-china)
+
+```
+[![awesome-china](https://raw.githubusercontent.com/taibangle/awesome-china/badges/awesome-china.png)](https://github.com/taibangle/awesome-china)
+```
+
+#### 很棒-中国
+
+[![很棒-中国](https://raw.githubusercontent.com/taibangle/awesome-china/badges/很棒-中国.png)](https://github.com/taibangle/awesome-china)
+
+```
+[![很棒-中国](https://raw.githubusercontent.com/taibangle/awesome-china/badges/很棒-中国.png)](https://github.com/taibangle/awesome-china)
+```
+
+
+#### 很棒-中國
+
+[![很棒-中國](https://raw.githubusercontent.com/taibangle/awesome-china/badges/很棒-中國.png)](https://github.com/taibangle/awesome-china)
+
+```
+[![很棒-中國](https://raw.githubusercontent.com/taibangle/awesome-china/badges/很棒-中國.png)](https://github.com/taibangle/awesome-china)
+```
+
+### Contact your representatives
+
+[Support the Hong Kong protests by donating and contacting your representatives](https://github.com/hongkonggong/beyond-lennon-walls)
 
 
 ## Wall of Shame
