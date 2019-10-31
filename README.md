@@ -39,6 +39,7 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 
 ## Ways to Support
 - [Support the Hong Kong protests by donating and contacting your representatives](https://github.com/hongkonggong/beyond-lennon-walls)
+- [Support the Uyghurs by donating and contacting your representatives](https://uhrp.org/what-you-can-do)
 
 
 ## Wall of Shame
