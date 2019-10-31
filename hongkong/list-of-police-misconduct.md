@@ -5,6 +5,11 @@ This article will provide a list of police brutality and misconduct towards the 
 Each incident has a GIF snippet along with a link to the full video. This is done to ensure the videos can be seen and shared by those living in China. If the GIF clips are taking too long to load, then you can click the 'See full video' links instead - by doing so then you will also be able to see the full video in a better resolution. It's strongly recommended to see the incidents taking place at 2019-08-31 and 2019-08-11.
 
 
+## 2019-10-31 - Man pepper-sprayed in the face for asking which route to take and where he's allowed to be - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/close-range-pepper-spray-in-eyes.mp4)
+
+![Police Pepper Spray Man](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/close-range-pepper-spray-in-eyes.gif)
+
+
 ## 2019-10-21 - Police officer assault and arrest woman for yelling "your wife is being fucked by someone" - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/your-wife-is-being-fucked.mp4)
 
 ![Police assault and arrest woman](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/your-wife-is-being-fucked.gif)
