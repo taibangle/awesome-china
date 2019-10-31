@@ -1,1 +1,0 @@
-ffmpeg -i spray.mp4 -ss 00:00:19 -to 00:00:27 -r 15 spray2.gif
