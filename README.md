@@ -47,7 +47,6 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 ### Put a badge on your GitHub project
 Use the code below in your project `README` to show your support and link to awesome-china.
 
-#### awesome-china badge
 <a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/taibangle/awesome-china/master/badges/awesome-china.png" width="98"></a>
 
 ```
