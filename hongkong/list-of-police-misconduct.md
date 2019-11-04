@@ -5,6 +5,11 @@ This article will provide a list of police brutality and misconduct towards the 
 Each incident has a GIF snippet along with a link to the full video. This is done to ensure the videos can be seen and shared by those living in China. If the GIF clips are taking too long to load, then you can click the 'See full video' links instead - by doing so then you will also be able to see the full video in a better resolution. It's strongly recommended to see the incidents taking place at 2019-08-31 and 2019-08-11.
 
 
+## 2019-11-04 - Police randomly throw Made in China "tear gas" at citizens without warning, and then walks away - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/randomly-throw-tear-gas.mp4)
+
+![Police Randomly Throw Tear Gas](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/randomly-throw-tear-gas.gif)
+
+
 ## 2019-11-04 - Police pepper spray man leaving as per the officers instructions - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/pepper-spray-man-leaving.mp4)
 
 ![Police Pepper Spray Man Leaving](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/pepper-spray-man-leaving.gif)
