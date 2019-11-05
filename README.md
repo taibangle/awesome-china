@@ -29,6 +29,7 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 
 
 ## 中华人民共和国历史
+- [中國709維權律師大抓捕事件](https://github.com/taibangle/awesome-china/blob/master/ccp-history/709-crackdown.md)
 - [六四事件，又稱六四天安門事件](https://github.com/taibangle/awesome-china/blob/master/ccp-history/tiananmen-square-massacre.md)
 - [文化大革命](https://github.com/taibangle/awesome-china/blob/master/ccp-history/cultural-revolution.md)
 - [道县事件，也称道县惨案、道縣大屠殺、道县文革杀人事件](https://github.com/taibangle/awesome-china/blob/master/ccp-history/daoxian-massacre.md)
