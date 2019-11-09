@@ -5,6 +5,15 @@ This article will provide a list of police brutality and misconduct towards the 
 Each incident has a GIF snippet along with a link to the full video. This is done to ensure the videos can be seen and shared by those living in China. If the GIF clips are taking too long to load, then you can click the 'See full video' links instead - by doing so then you will also be able to see the full video in a better resolution. It's strongly recommended to see the incidents taking place at 2019-08-31 and 2019-08-11.
 
 
+## 2918-11-08 - Police officer celebrate the death of Chow Tsz-Lok, a student who suffered severe brain injury after being pushed down from a car park - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-celebrate-students-death.mp4)
+
+In the video the police can be heard yelling: "Go back and lay eggs you roaches. Come and take revenge dickhead. I'm going to pop a champagne to celebrate." in response to the death of Chow Tsz-Lok. It is not yet known if the police were the ones who pushed Chow Tsz-Lok or not, however, video evidence has surfaced showing that the [police entered the car park before the incident happened](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-entered-park-lot-before-the-death.mp4) (proving the police lied about the time they entered the building).
+
+![Police Block Dispatched Ambulance](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-block-ambulance.gif)
+
+The police also ordered volunteer first-aiders and firefighters to leave the area and they [forbade dispatched ambulance to pass through the road block](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-block-ambulance.mp4), which meant that Chow Tsz-Lok lost 22 minutes of much needed medical care.
+
+
 ## 2019-11-04 - Police randomly throw Made in China "tear gas" at citizens without warning, and then walks away - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/randomly-throw-tear-gas.mp4)
 
 ![Police Randomly Throw Tear Gas](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/randomly-throw-tear-gas.gif)
