@@ -21,6 +21,11 @@ To make matters even worse, the police kept moving one of the gunshot victim's b
 ![Police Beat and Push Citizens on an Escalator](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-beat-and-push-citizens-on-escalator.gif)
 
 
+## 2019-11-09 - Police pours water to put out candles commemorating Chow Tsz-Lok's death - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-put-out-candles.mp4)
+
+![Police Disrespecting Chow Tsz-Lok's Death](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-put-out-candles.gif)
+
+
 ## 2918-11-08 - Police officer celebrate the death of Chow Tsz-Lok, a student who suffered severe brain injury after being pushed down from a car park - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-celebrate-students-death.mp4)
 
 In the video the police can be heard yelling: "Go back and lay eggs you cockroaches. Come and take revenge dickhead. I'm going to pop a champagne to celebrate." in response to the death of Chow Tsz-Lok. It is not yet known if the police were the ones who pushed Chow Tsz-Lok or not, however, video evidence has surfaced showing that the [police entered the car park before the incident happened](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-entered-park-lot-before-the-death.mp4) (proving the police lied about the time they entered the building).
