@@ -5,6 +5,17 @@ This article will provide a list of police brutality and misconduct towards the 
 Each incident has a GIF snippet along with a link to the full video. This is done to ensure the videos can be seen and shared by those living in China. If the GIF clips are taking too long to load, then you can click the 'See full video' links instead - by doing so then you will also be able to see the full video in a better resolution. It's strongly recommended to see the incidents taking place at 2019-08-31 and 2019-08-11.
 
 
+## 2019-11-10 - Police shot protestors with live rounds while using human shield - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/shoot-protestors-with-human-shield.mp4)
+
+![Police use Human Shield and Shoot Protestors](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/shoot-protestors-with-human-shield.gif)
+
+It is difficult to understand what is going through the police officers head when he suddenly grab a person to use as a human shield and then fire 3 shots at unarmed protestors.
+
+![Police Move the Body of Gunshot Victim](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/moving-body-of-gunshot-victim.gif)
+
+To make matters even worse, the police kept moving one of the gunshot victim's body, which is absolutely insane, as gunshot wounds on the torso or neck are always assumed as spinal injuries until a full secondary assessment can be made. Moving the victim around like that greatly increase the chance of life-long paralysis or death. ([See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/moving-body-of-gunshot-victim.mp4).)
+
+
 ## 2019-11-10 - Police beat and push citizens on an escalator - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-beat-and-push-citizens-on-escalator.mp4)
 
 ![Police Beat and Push Citizens on an Escalator](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-beat-and-push-citizens-on-escalator.gif)
