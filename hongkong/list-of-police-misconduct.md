@@ -5,7 +5,22 @@ This article will provide a list of police brutality and misconduct towards the 
 Each incident has a GIF snippet along with a link to the full video. This is done to ensure the videos can be seen and shared by those living in China. If the GIF clips are taking too long to load, then you can click the 'See full video' links instead - by doing so then you will also be able to see the full video in a better resolution. It's strongly recommended to see the incidents taking place at 2019-08-31 and 2019-08-11.
 
 
-## 2019-11-10 - Police shot protestors with live rounds while using human shield - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/shoot-protestors-with-human-shield.mp4)
+## 2019-11-12 - Police plant evidence - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-plant-evidence.mp4)
+
+![Police Plant Evidence](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-plant-evidence.gif)
+
+
+## 2019-11-12 - Police commander order to "aim for the head" - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-commander-order-aim-for-head.mp4)
+
+You can hear him say "凸咗頭出嚟！打佢個頭！", which means "He poked his head out! Aim for the head!"
+
+
+## 2019-11-12 - Police attack pregnant woman - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-attack-pregnant-woman.mp4)
+
+![Police Attack Pregnant Woman](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-attack-pregnant-woman.gif)
+
+
+## 2019-11-11 - Police shot protestors with live rounds while using human shield - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/shoot-protestors-with-human-shield.mp4)
 
 ![Police use Human Shield and Shoot Protestors](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/shoot-protestors-with-human-shield.gif)
 
