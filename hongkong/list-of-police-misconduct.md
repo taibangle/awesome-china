@@ -5,6 +5,11 @@ This article will provide a list of police brutality and misconduct towards the 
 Each incident has a GIF snippet along with a link to the full video. This is done to ensure the videos can be seen and shared by those living in China. If the GIF clips are taking too long to load, then you can click the 'See full video' links instead - by doing so then you will also be able to see the full video in a better resolution. It's strongly recommended to see the incidents taking place at 2019-08-31 and 2019-08-11.
 
 
+## 2019-11-18 - Police stomp subdued protestor in the head - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-stomp-subdued-in-head.mp4)
+
+![Police Stomp Subdued Protestor in Head](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-stomp-subdued-in-head.gif)
+
+
 ## 2019-11-13 - Police violently jump onto young man casually walking on the road - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-violently-jump-man-casually-walking.mp4)
 
 ![Police Jump Onto Young Man](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-violently-jump-man-casually-walking.gif)
@@ -92,7 +97,7 @@ You don't even need to imagine what would happen if this "non-lethal" weapon, wh
 The First Aider went into shock as a result of the third-degree burns.
 
 
-## 2019-10-31 - Police brutally hit social worker with his baton, and afterwards spray woman asking for an explination  - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/social-worker-beaten-on-the-head.mp4)
+## 2019-10-31 - Police brutally hit social worker with his baton, and afterwards spray woman asking for an explanation  - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/social-worker-beaten-on-the-head.mp4)
 
 Police lost temper and rushed into the crowd, after which fellow police officers rushed in with him and randomly started beating people with their batons. A social worker was smashed in the head bleeding severely.
 
