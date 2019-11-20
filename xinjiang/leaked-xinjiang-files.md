@@ -1,5 +1,7 @@
 # 泄露文件揭示中国如何组织对穆斯林大规模拘禁
 
+![Leaked Documents](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/xinjiang/images/leaked-documents-overview.png)
+
 香港——学生们在学期结束时买好了回家的票，盼望着考试后轻松一下，回中国偏远的西部地区与家人欢聚度夏。
 
 然而，他们却在不久后被告知，他们的父母不在家，亲戚们已经失踪，邻居们也不见了——这些人都被关进了拘禁营，这个为关押穆斯林少数民族而建的拘禁营网正在扩大。
@@ -287,6 +289,21 @@
 内部报告说，他“拒不执行自治区党委‘应收尽收’的要求。”
 
 点击查看本文英文版。
+
+## 泄露文件
+![Leaked Documents](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/xinjiang/images/leaked-documents-top-page-export-2-1.jpg)
+![Leaked Documents](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/xinjiang/images/leaked-documents-top-page-02.jpg)
+![Leaked Documents](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/xinjiang/images/leaked-documents-top-page-03.jpg)
+![Leaked Documents](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/xinjiang/images/leaked-documents-top-page-04.jpg)
+![Leaked Documents](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/xinjiang/images/leaked-documents-top-page-05.jpg)
+![Leaked Documents](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/xinjiang/images/leaked-documents-top-page-06.jpg)
+![Leaked Documents](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/xinjiang/images/leaked-documents-top-page-07.jpg)
+![Leaked Documents](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/xinjiang/images/leaked-documents-top-page-08.jpg)
+![Leaked Documents](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/xinjiang/images/leaked-documents-top-page-09.jpg)
+![Leaked Documents](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/xinjiang/images/leaked-documents-top-page-10.jpg)
+![Leaked Documents](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/xinjiang/images/leaked-documents-top-page-11.jpg)
+![Leaked Documents](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/xinjiang/images/leaked-documents-top-page-12.jpg)
+
 
 ---
 
