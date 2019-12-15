@@ -5,6 +5,11 @@ This article will provide a list of police brutality and misconduct towards the 
 Each incident has a GIF snippet along with a link to the full video. This is done to ensure the videos can be seen and shared by those living in China. If the GIF clips are taking too long to load, then you can click the 'See full video' links instead - by doing so then you will also be able to see the full video in a better resolution. It's strongly recommended to see the incidents taking place at 2019-08-31 and 2019-08-11.
 
 
+## 2019-11-19 - Present
+
+Please note that the **police brutality and misconduct is still happening today**. However, because the page already feature too many incidents, then the page is becoming too slow to load. In the future I may separate these videos into months, so that each page feature 10-20 incidents rather than having one page feature 50+.
+
+
 ## 2019-11-18 - Police stomp subdued protestor in the head - [See full video here](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-stomp-subdued-in-head.mp4)
 
 ![Police Stomp Subdued Protestor in Head](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/police-stomp-subdued-in-head.gif)
