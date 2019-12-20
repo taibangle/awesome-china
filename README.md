@@ -9,6 +9,7 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 ## Circumvent Censorship
 - [VPN to bypass Great Firewall of China (GFW) for Free - Cloudflare 1.1.1.1 + WARP](https://github.com/taibangle/awesome-china/blob/master/circumvent-censorship/cloudflare-1111-warp.md)
 - [Bypassing Censorship on Chinese Social Media (e.g. WeChat)](https://github.com/taibangle/awesome-china/blob/master/circumvent-censorship/chinese-social-media.md)
+- **Video** - [Chinese man arrested and tortured for critizing the police in Weixin/QQ group chats - please be mindful of the risks associated with fighting for basic human rights](https://www.youtube.com/watch?v=vspukvqxTSg) ([GitHub 240p mirror since YouTube is blocked in China](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/ccp-history/videos/tortured-for-criticizing-police-in-weixin-qq.mp4))
 
 
 ## Xinjiang Concentration Camps
