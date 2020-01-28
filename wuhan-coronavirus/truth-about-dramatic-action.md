@@ -1,0 +1,146 @@
+# The Truth About "Dramatic Action"
+
+![Wuhan Virus](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/wuhan-coronavirus/images/28550528248_6f5df66c41_k-1200x640.jpg)
+> China is rounding up dissidents and barbarically harvesting their organs, while profiting greatly in the process, according to reports.
+
+"As far as I know, trying to contain a city of 11 million people is new to science." This was how Dr. Gauden Galea, the World Health Organization’s country representative in China, described the situation facing the city of Wuhan when asked late last week for his update on the coronavirus outbreak.
+
+It was clear from Galea’s remarks that the total containment of Wuhan, the city where I have lived for the past few decades, was not a course of action the WHO had recommended. Nor did the organization have any clear view on whether such an action would prove effective in limiting the spread of the disease. "It has not been tried before as a public health measure," he said, "so we cannot at this stage say it will or will not work."
+
+I am now one of 11 million people in Wuhan who are living through this grand experiment, a measure that, Galea also said, shows "a very strong public health commitment and a willingness to take dramatic action." From inside the curtain that now encloses my city, I wish to offer my thoughts on this "dramatic action," and to judge what we have actually seen and experienced in terms of commitment to public health.
+
+## Closing Up the Cities
+
+At 2AM on January 23, authorities in Wuhan suddenly issued the order to close off the city. According to the order, from 10AM that same day, all public buses, subways, ferries, long-distance buses and other transport services would be suspended; the airport and train stations would be shuttered. At this point, the WHO might have had reservations about the necessity and effectiveness of this strategy – but in any case, is was irreversible, and it would soon extend to neighboring cities as well.
+
+In less than two days, up to noon on January 24, a total of 14 cities in Hubei province would be brought into the quarantine zone. These cities, with a population of around 35 million, include: Huanggang (黄冈) and E’zhou (鄂州), were quickly brought under the order for closure. More cities followed: Chibi (赤壁), Xiantao (仙桃), Zhijiang (枝江), Qianjiang (潜江), Xianning (咸宁), Huangshi (黄石), Enshi (恩施)、Dangyang (当阳), Jingzhou (荆州), Jingmen (荆门) and Xiaogan (孝感).
+
+This was no longer a city under lockdown, but effectively an entire province under quarantine.
+
+Galea and other foreign experts have expressed a sense of awe about the boldness of the quarantine in Hubei province. Over the weekend, the New York Times quoted Dr. William Schaffner, an expert on infectious disease from Vanderbilt University, as saying that the lockdown is a "public health experiment, the scale of which has not been done before." Schaffner was clearly astonished: "Logistically, it’s stunning, and it was done so quickly."
+
+China’s capacity to impress with such grand gestures calls to mind talk of the "Chinese miracle," often used to describe the performance of the country’s economy over four decades. But is it fair to regard this case of large-scale quarantine also as a "Chinese miracle" in public health? 
+
+## Shutting People’s Mouths
+
+Everyone must understand, first of all, that this epidemic was allowed to spread for a period of more than forty days before any of the abovementioned cities were closed off, or any decisive action taken. In fact, if we look at the main efforts undertaken by the leadership, and by provincial and city governments in particular, these were focused mostly not on the containment of the epidemic itself, but on the containment and suppression of information about the disease.
+
+The early suppression of news about the epidemic is now fairly common knowledge among Chinese, and many people view this failure to grapple openly with the outbreak as the chief reason why it was later seen as necessary to take the "dramatic action" of closing down my city and many others.
+
+The direct cause of all of this trouble is of course the new coronavirus that has spread now from Wuhan across the globe and has everybody talking. Up to January 24, in Hubei province alone, there were 549 admitted cases of the virus. Among these there have been 24 deaths. But the real numbers are still unknown.
+
+According to reports from Caixin Media, one of China’s leading professional news outlets, the entire situation began on December 8, with the discovery of the first known case of an infected patient in Wuhan, a stall operator from the Huanan Seafood Market. The Huanan Seafood Market is a large-scale wet market, with an area about the size of seven football pitches and more than 1,000 stalls. The market has a constant flow of customers, making it the ideal place for the spread of infectious disease. A seafood market only in name, it sells a wide array of live animals, including hedgehogs, civet cats, peacocks, bamboo rats and other types of wild animals. At this market, the nearly inexhaustible appetite, and insatiable greed and curiosity of Chinese diners is on full display.
+
+The number of infected people rose rapidly, reaching 27 people within a short period of time. Health professionals in Wuhan began suspecting in early December that this was an unknown infectious disease, not unlike the Severe Acute Respiratory Syndrome (SARS) that emerged in southern China in 2003. The ghost of SARS seemed to wander Wuhan in December, and rumors spread farther and farther afield of a new disease on the prowl.
+
+China is a society closely monitored by the government, and the shadow of Big Brother is everywhere. Social media in particular are subject to very close surveillance. So when the authorities detected chatter about the re-emergence of SARS, or of a similar unknown outbreak, they took two major steps initially. First, they tried to ensure that this new outbreak remained a secret; second, they put the stability preservation system into effect (启动稳控机制). On December 30, the Wuhan Health Commission (武汉市卫建委) issued an order to hospitals, clinics and other healthcare units strictly prohibiting the release of any information about treatment of this new disease. As late as December 31, the government in Wuhan was still saying publicly that there were no cases of human-to-human transmission, and that no medical personnel had become infected. 
+
+## Science Versus Politics
+
+The period from December 8 to December 31 was a crucial 23-day period. During this time, scientists in China were not in fact idle, but raced against the clock trying to trace the virus – and their performance was remarkable. Meng Xin (孟昕), a researcher at the Chinese Center for Disease Control and Prevention, has since disclosed:
+
+So originally they [NOTE: Meng is referring here to the government] had one ace card in their hand. My colleagues worked hard through the night, and within one week had managed to: successfully isolate the disease, sequence the coronavirus genome (测完了序列), and confirmed the origin of the disease. In less than two weeks, they had developed test reagents and had distributed them to provincial CDCs, and they had reviewed anywhere from dozens to hundreds of specimens from Wuhan (the specific number is still unknown), actions that would earn unanimous praise from international colleagues and the World Health Organization, and that would save precious time in the prevention and control of the epidemic.
+
+Meng is referring here specifically to the actions taken by scientists in Beijing. But Shanghai scientists were not far behind. According to a report in Health News (健康报), the official publication of China’s National Health Commission, the Shanghai Public Health Clinical Center (上海市公共卫生临床中心) had isolated a new strain of coronavirus by January 5, within just 10 days of its receiving samples from patients in Wuhan on December 26, and scientists at the center had obtained the entire genome sequence.
+
+On January 11, on the basis of the latest research developments in Beijing and Shanghai, China officially confirmed that this new coronavirus was the pathogen causing the Wuhan pneumonia epidemic, and it shared the new coronavirus gene sequence information with the WHO.
+
+But while the Chinese authorities informed the World Health Organization about these developments at the earliest opportunity, they did not inform their own people, but instead maintained strict secrecy. This meant no progress was made on prevention and control.
+
+As the researcher Meng Xin put it:
+
+The ace card [provided by scientists] was still played very poorly, because at the first opportunity politics came into play and directed strict confidentiality requirements – this can’t be talked about, that can’t be talked about, we must maintain stability, and so on. So the test reports were locked into the safety deposit box.
+
+Here is how the situation looked from our perspective on the ground as Chinese citizens, and as residents of Wuhan.
+
+On January 12, the Wuhan Municipal Health Construction Commission announced that there were no new cases and no close contacts as of the 11th.
+
+On January 13, the Wuhan Municipal Health Construction Commission announced that there were no new cases and no close contacts as of the 12th.
+
+On January 14, the Wuhan Municipal Health Construction Commission announced that there were no new cases and no close contacts as of the 13th.
+
+On January 15, the Wuhan Municipal Health Construction Commission announced that there were no new cases and no close contacts as of the 14th.
+
+On January 16, the Wuhan Municipal Health Construction Commission announced that there were no new cases and no close contacts as of the 15th.
+
+Politics first. Stability preservation first. In such an environment, science can only sit by and watch. The scientific results could not be clearer, and the authorities likely had a decent grasp of the real situation. But nevertheless they could not speak the truth, and they spared no effort in keeping the outbreak under wraps. Front-line doctors who spoke up about the outbreak were taken in for questioning. Eight Wuhan citizens who dared to post about the outbreak online were summoned by the police and singled out in public announcements through official media in order to terrify the public and force people to remain quiet.
+
+The focus of restrictions was to prevent the truth of human-to-human transmission of the coronavirus from getting out. Wuhan officials continued to emphasize through January 14 that no clear evidence of human-to-human transmission had been found. Later, officials had to admit that there was evidence of what they called "limited human-to-human transmission." Wang Guangfa (王广发), a member of the expert group from Beijing, came out and stressed that the disease was "preventable and controllable." In light of these statements, the public remained unaware and unconcerned. 
+
+## Politics as Usual
+
+Up to January 17, tourism authorities in Wuhan continued to launch the "Spring Festival Culture Benefitting the People Campaign" (春节文化惠民活动), issuing hundreds of thousands of free tickets to attractions in Wuhan in order to encourage tourists from all over the country to come to the area for sightseeing. Through to January 19, Baibuting Garden (武汉市百步亭社区), an area advertised as a model residential community in Wuhan, was still holding a Spring Festival banquet celebration for its 40,000 residents. There was no attempt to stem the flow of people to Wuhan from all over the country and around the world. During what was the most critical phase for controlling the outbreak, Wuhan was essentially an open city owing to the efforts of local officials to keep a lid on the story.
+
+The ignoring of the outbreak by Party and government officials can be seen clearly in the agendas of local officials in Hubei province. On January 11, after the disease was confirmed as a new strain of coronavirus, until January 20, when General Secretary Xi Jinping issued a notice on response and control of the outbreak, Hubei provincial officials and Wuhan city officials had no meetings or events having to do with the coronavirus outbreak.
+
+From January 12-17, these officials were all busy prioritizing the provincial and city-level meetings of the people’s congresses and political consultative conferences, the so-called "two meetings" (两会) – the biggest local political meetings of the year. In all likelihood this is reason why, as outlined above, no new cases of the virus were reported – because a "harmonious" public opinion environment had to be created for the "two meetings."
+
+On January 18, a Saturday, there were no events scheduled by provincial or city officials, and this was most likely a day of rest. On January 19th, leaders at the provincial and city levels had their respective itineraries, but no officials voiced concern about the outbreak. The provincial Party secretary, Jiang Chaoliang (蒋超良), had three events on his schedule: a meeting with the Yangtze River Water Conservancy Commission; a meeting with retired cadres; and an appearance at a Spring Festival event for the military. His itinerary the next day: a visit with poor families in Daye City. Provincial governor Wang Xiaodong (王晓东) accompanied Jiang Chaoliang on his visits on January 19, and had nothing on his itinerary the next day.
+
+Wuhan Party Secretary Ma Guoqiang (马国强) spent the day on January 19 attending a meeting of the Grass-roots Party Building Review and Appraisal Council. On January 20, he presided over a meeting of the Municipal Standing Committee. But the agenda did not touch on the coronavirus outbreak, focusing instead on language from the central and provincial Party leadership on "remaining true to our original aspiration, keeping firmly to our mission" (不忘初心, 牢记使命), this being a key phrase of Xi Jinping’s to talk about keeping to the path of socialism with Chinese characteristics and pushing for the so-called "great rejuvenation of the Chinese nation."
+
+The only official who had any event related to the coronavirus outbreak on his agenda was Wuhan’s number two, mayor Zhou Xianwang (周先旺), who on January 20 attended a working meeting of the Epidemic Prevention and Control Command Center (疫情防控指挥部). This was on the same day that Xi Jinping finally issued his official instructions on dealing with the outbreak.
+
+It was only after the conclusion of the provincial and city-level sessions of the "two meetings" that the authorities in Hubei province resumed reporting new disease cases, so that on the night of January 19 the number given suddenly rose to 136 new cases. But even with this dramatic increase from previous numbers, the leadership remained conservative and close-mouthed about the outbreak.
+
+Even on January 21, the day after Xi Jinping’s instructions were conveyed nationwide on January 20, the provincial Party and government leadership went ahead with a grand Spring Festival Banquet in the Hongshan Assembly Hall, with performances from the provincial song and dance troupe. According to Party media reports, preparation for the banquet had top priority for the leadership and the Provincial Department of Culture and Tourism: "Lei Wenjie, the department’s secretary and director, personally reviewed various performance plans, provided guidance for the draft program, and reviewed the compositions and rehearsals for the show in person." Reports even gave what now seem quite suggestive details, saying that the performers had "overcome a host of difficulties to achieve a perfect performance, including coming from long distances, enduring colds, stuffy noses, and bodily discomfort."
+
+As the province’s top leader, Secretary Jiang Chaoliang, and Governor Wang Xiaodong (王晓东) sat with row upon row of Party and government officials, they were the very image of peace and calm. But when news of the banquet was posted online, it met with a wave of anger as internet users bitterly criticized them for inaction. One user mocked these officials online with the choice words: "These public servants who need not concern themselves with the virus, reward themselves with flowers in the back courtyard." 
+
+## The Voice of Calm
+
+The true turning point came as Zhong Nanshan (钟南山), the well-known Chinese pulmonologist who identified the SARS virus in 2003, paid a visit to Wuhan. On January 18, Zhong received orders in Guangzhou to head urgently to Wuhan. But even though Zhong was an esteemed member of the Chinese Academy of Engineering, and even though he was under urgent orders to become involved in a matter of national concern, his rank was apparently too low to merit special transport arrangements of any kind. Instead, he was forced to take a high-speed train in the evening, fighting against crowds heading home for the Spring Festival. He spent the entire journey settled in a corner of the dining car.
+
+Looking back now, it’s clear that Zhong Nanshan’s orders at the time were not at all about researching the outbreak. As I’ve said, by this point scientists in Beijing and Shanghai had already made critical breakthroughs on that front, identifying and sequencing the pathogen in record time, and developing diagnostic kits. Unfortunately, the efforts of these scientists were largely snuffed out by the black box of Chinese politics.
+
+Zhong Nanshan was brought into the picture because there was no way to really and truly turn the tide without the appearance somehow of a third party with sufficient credibility to break through the paper windows of reporting on the epidemic to that point – someone who could reveal the full nature of the epidemic to the public, and somehow reassure them. As Meng Xin, the Chinese Center for Disease Control and Prevention researcher, wrote: "Nothing could be done to hold back [the truth about the outbreak]. Our best bet was to have Old Dr. Zhong, this great god, come out and reveal something of the real facts of the situation, and try to calm people’s nerves."
+
+But the authorities still were not prepared to admit the full truth. There was no admission that the outbreak had been concealed, that there had been serious delays in reporting, that a "super-spreader" had infected more than 14 health workers in the city, or that hospitals in Wuhan were suffering shortages of critical resources. Zhong Nanshan simply came out and broke the news that the virus was now spreading from person to person. Beyond that, he said nothing.
+
+And so it was that the seriousness of what was happening in Wuhan broke upon the nation, and my city became a city under lockdown – not out of an overriding concern for public health, but out of a conviction that politics and stability preservation must always come first. 
+
+## The Ghost City
+
+The quarantine of the city of Wuhan can be read as a sign of desperation at the top of the Party leadership, and at the provincial and city levels it was an unavoidable measure. There has been some talk that the closing off of Wuhan and much of Hubei province came after many other provinces and cities made an urgent request to the central authorities to take more urgent action to control the situation in Hubei and prevent people from Wuhan other cities from traveling all over the country.
+
+Wuhan was the first to announce the closure of the city, but this was not at all done in a decisive way, but rather in a foot-dragging and non-committal way. Nothing whatsoever, to my mind, merits the suggestion from Dr. William Schaffner that, "Logistically, it’s stunning." One might imagine this action was taken with some form of wartime control logic, but this was not actually the case at all. The order was issued at 2AM on January 23, but was not officially implemented until 10AM, which opened up an eight-hour window in which people who managed to learn of the situation could make a swift exit, taking to the expressways in their private cars.
+
+We can be sure that a substantial number of the people who left the city at this point – some estimates are of as many as one million – were already by this point carriers of the coronavirus. This includes many people who had failed to obtain treatment in the city, and were hoping to find treatment elsewhere. Media have since reported cases of patients from Wuhan being successfully treated and discharged from hospitals in Shanghai, for example, providing a glimpse of what happened in that brief window between the announcement of the quarantine and its actual implementation.
+
+Another aspect of the Wuhan quarantine has been its hasty nature. Even now, after several days of quarantine, no specific plan has been issued, suggesting no preparations were made at all before the announcement. What should be done to settle or assist the estimated one million refugees from Wuhan who made it out before the quarantine was implemented? During the quarantine period, how would food, water and other basic necessities be provided to residents of the city? How would medical personnel at hospitals and clinics be provided with the medicines and other essentials? How would the authorities deal with urgent transportation needs, such as medical staff getting to and from work and patients getting to hospitals for medical treatment? How would law and order be maintained? The government has so far offered no explanation for how these and many other urgent questions are being dealt with.
+
+In the absence of answers, what we have is the shutting off and shutting down of a city, plain and simple. A quarantine that means 11 million people are trapped within their city. No one seems to have considered how public order will be maintained, and how our lives here in Wuhan will be supported.
+
+This is the situation in Wuhan, Hubei’s capital city. We can suppose that the situation is no better, and is possibly worse, in the other cities that have similarly come under quarantine. Of the fourteen cities under facing lockdown, there are so far no exceptions in terms of the announcement of plans or preparations. They are equally in the dark, having become fourteen isolated islands, home to an estimated 35 million helpless citizens.
+
+The results of this are already becoming clear. First, we are seeing a shortage of supplies of essential household goods in Wuhan, and inflation is out of control. The city was closed off early in the morning on January 23, and by noon the price of vegetables had already skyrocketed, some vegetables priced up to hundreds of yuan per half-kilo. By afternoon that same day, many supermarkets in the city had been entirely cleaned out. Fortunately, this is perhaps the one time during the year, with the arrival of the Spring Festival, that Chinese families tend to have reserve supplies at home to prepare for festivities. But if fresh supplies are not made available soon, it’s possible many families will not have enough to eat.
+
+Another major problem right now is that major hospitals and frontline medical staff do not have sufficient supplies of protective equipment as they work overtime to treat a flood of patients. Even the best hospitals in Hubei, such as Tongji Hospital and Xiehe Hospital, cannot escape this basic problem. They have reported that even masks are in short supply.
+
+In some cases, frontline medical personnel were unable to eat their New Year’s Eve meals last Friday, one of the most important meals of the year. This was not because there was no food to eat, but because their protective masks are single-use, and must be changed out any time they are removed, lest they become ineffective. But there were already an insufficient number of masks by the weekend, and so medical personnel didn’t dare remove them. More serious even than the shortage of protective equipment is the fact that many frontline medical personnel are exhausted and on the verge of collapse due to extreme mental and physical strain.
+
+Another issue that has so far not been addressed is the fact that there are roughly one million Wuhan residents who managed to leave the city and who are now essentially refugees without any proper means of finding shelter or care, and who risk being chased down and harassed by local governments and communities out of fear. In some cases, they may present a real risk in spreading the virus. In other cases, they may face brutal treatment as refugees and outcasts.  
+
+Wuhan under quarantine has already begun to feel like a ghost city. From New Year’s Eve into New Year’s Day, you couldn’t hear a single firecracker going off. I have lived in this city for decades already, and this is the first time that the Chinese New Year has passed without the sound of fireworks. The entire city is silent. The traffic lanes, usually jammed with vehicles, are empty. All public places are now inaccessible. No one is associating or organizing get togethers. There is no sense of community. No public life. We are all atomized individuals, living in isolation in our own homes, passing the time watching the television, or glued to our mobiles.
+
+In this dead silence, fear spreads. Senior government officials are certainly living in fear. And just how afraid are they? After announcing the closure of the city, they failed to present contingency plans of any kind; and they have failed since to offer up any plans for future action. At a crucial point last Friday, on the eve of the New Year, none of them dared stand with front-line medical personnel in Hubei’s hospitals, or to offer them meals or encouragement of any kind.  
+
+They can’t possibly be ignorant of the fact that such signs of leadership are the only way they can offer a thread of confidence to those on the front lines, and to the millions who are trapped in this sad city. And yet, they somehow find it impossible to take such steps. They appear not to have the courage.
+
+And there may be a reason for this. Why? Because there are already concrete examples that deepen their sense of dread. On January 22, Huang Mouhong (黄谋宏), the deputy director of the Hubei Provincial Department of Commerce, was diagnosed with the coronavirus. Before this, there was news that Wang Guangfa, the expert who had flown to Wuhan from Beijing and announced that the disease was "preventable and controllable," had been confirmed as infected shortly after his return to the capital.
+
+In fact, both the provincial and municipal governments have already effectively been shut down, and to a large extent can be said to now be only caretaker governments (看守政府). These cowardly and incompetent governments obviously cannot take on the necessary responsibility of governing in what has already become essentially a state of war. This leaves the public in a state of deep concern and uncertainty.
+
+On January 22, Zhang Ouya (张欧亚), a journalist for the official Hubei Daily newspaper, clearly at the end of his rope, fairly shouted online: "Wuhan must immediately change out its commanders" (武汉必须当机立断换帅了). For a brief time, this furious call proliferated online. Another meme was rapidly born, like a mutating virus, across social media. The word "coronavirus", or guānzhuàng bìngdú (冠状病毒), was replaced with the identical-sounding "official virus" (官状病毒), mocking the cowardice and ineffectiveness of the government and of high-level officials.
+
+We may find it hard to suppress a bitter laugh over such an acts of inventive criticism. But such a story cannot have a happy ending in China’s stability-obsessed political environment – where anything can be stopped. Zhang Ouya’s post was quickly expunged. The Party leadership of the Hubei Daily Media Group, Zhang’s employer, wrote a letter of apology to the Municipal Party Committee expressing its "deepest apologies" for Zhang Ouya’s "incorrect remarks." The group also made clear that it was starting "relevant procedures" to hold Zhang accountable.
+
+At the same time, while carrying on an investigation of Wuhan’s Huanan Seafood Market, where the outbreak originated, Xiao Hui (萧辉), a reporter for Caixin Media, was surrounded and beaten by four security guards. Caixin journalist Wang Heyan (王和岩), one of the finest investigative reporters working in China today, contacted several doctors in Wuhan in order to verify infections among medical staff, but was not allowed to meet with her sources. The Chinese Center for Disease Control and Prevention has issued an order saying that: "[Medical personnel must not, under any condition, accept media interviews, and must not leak information about the outbreak to the outside. Noone can accept interviews, even if journalists promise anonymity and agree to protect their sources."
+
+What will tomorrow bring? Here in Wuhan, 11 million of us are waiting — not for dramatic action, but for openness and a real plan of action. 
+
+---
+
+Source: http://chinamediaproject.org/2020/01/27/dramatic-actions/
+
+*This article was mirrored to GitHub to make it possible for people to share it with those living in China. GitHub is one of the few Western services that doesn't attempt to appease to the Chinese government by censoring its users.*
