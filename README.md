@@ -9,7 +9,7 @@ See [https://github.com/taibangle/awesome-china](https://github.com/taibangle/aw
 ## Wuhan coronavirus outbreak
 - [The Truth About "Dramatic Action"](https://github.com/taibangle/awesome-china/blob/master/wuhan-coronavirus/truth-about-dramatic-action.md)
 - **Video** [Wuhan citizen explpain the coronavirus situation in Wuhan, and seeks help from Chinese abroad (English subtitles)](https://youtu.be/7OEqybiGdaA) ([GitHub 720p Mirror since YouTube is blocked in China](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/wuhan-coronavirus/videos/wuhan-citizen-seeks-help-from-abroad.mp4))
-- **Video** [Wuhan nurse estimating 90.000 affected, begging people to donate disposable goggles, masks and clothing](https://twitter.com/howroute/status/1220802981408448512) ([GitHub 240p Mirror since Twitter is blocked in China](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/wuhan-coronavirus/videos/wuhan-nurse-reveal-90000-affected.mp4))
+- **Video** [Wuhan physician estimating 90.000 affected, begging people to donate disposable goggles, masks and clothing](https://twitter.com/howroute/status/1220802981408448512) ([GitHub 240p Mirror since Twitter is blocked in China](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/wuhan-coronavirus/videos/wuhan-nurse-reveal-90000-affected.mp4))
 - **Audio** [Wuhan nurse estimating 100.000 affected, scolding government response](https://youtu.be/yQflXs0jZ9w) ([GitHub 240p Mirror since YouTube is blocked in China](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/wuhan-coronavirus/videos/wuhan-nurse-reveal-100000-affected.mp4))
 
 
