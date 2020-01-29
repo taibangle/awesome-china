@@ -1,7 +1,6 @@
 # The Truth About "Dramatic Action"
 
 ![Wuhan Virus](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/wuhan-coronavirus/images/28550528248_6f5df66c41_k-1200x640.jpg)
-> China is rounding up dissidents and barbarically harvesting their organs, while profiting greatly in the process, according to reports.
 
 "As far as I know, trying to contain a city of 11 million people is new to science." This was how Dr. Gauden Galea, the World Health Organization’s country representative in China, described the situation facing the city of Wuhan when asked late last week for his update on the coronavirus outbreak.
 
